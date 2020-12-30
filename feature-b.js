@@ -1,1 +1,1 @@
-.console.log('this is feature b master branch');
+.console.log('this is feature b on the feature-b branch');
